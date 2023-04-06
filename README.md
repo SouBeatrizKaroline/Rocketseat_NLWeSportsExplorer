@@ -17,4 +17,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 💙 Contato
 
-soubeatrizkaroline@gmail.com
+ebeatrizkcs@gmail.com
